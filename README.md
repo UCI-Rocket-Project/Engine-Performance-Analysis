@@ -2,12 +2,12 @@
  
 Requirements:     - an installation of Python 3.9.0 or above with the alias 'python'
                   - an installation of the following libraries:
-                    (1) os
-                    (2) numpy
-                    (3) pandas
-                    (4) nptdms
-                    (5) datetime
-                    (6) plotnine
+                    (1) os  
+                    (2) numpy  
+                    (3) pandas  
+                    (4) nptdms  
+                    (5) datetime  
+                    (6) plotnine  
 
 Step 1: Navigate to the directory containing EPA.py (in my case that is /scripts)
 Step 2: Enter a python environment by entering 'python' into your command terminal.
