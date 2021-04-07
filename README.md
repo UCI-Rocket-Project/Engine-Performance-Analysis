@@ -9,7 +9,7 @@ Requirements:     - an installation of Python 3.9.0 or above with the alias 'pyt
                     (5) datetime  
                     (6) plotnine  
 
-Step 1: Navigate to the directory containing EPA.py (in my case that is /scripts). 
+Step 1: Navigate to the directory containing EPA.py (in my case that is /scripts).  
 Step 2: Enter a python environment by entering 'python' into your command terminal.  
 Step 3: Now you can execute EPA.py via exec(open("EPA.py").read())  
 
