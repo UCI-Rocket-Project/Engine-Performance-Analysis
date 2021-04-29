@@ -29,7 +29,7 @@
 # User-defined variables (check before running)
 
 # Where to find TDMS files
-TDMS_path = "/Users/jonathan/Google Drive/Projects/UCIRP LabView Data Analysis/STF2 analysis/raw data/"
+TDMS_path = "/Users/jonathan/Google Drive/11 Spring 2021/UCI Rocket Project/STF3 DATA POG/"
 n = 3 # file number to read from .TDMS directory ([ex] "load_30.TDMS")
 
 pre_lc = "lc_" # prefix of load cell data file names ([ex] "load_30.TDMS")
